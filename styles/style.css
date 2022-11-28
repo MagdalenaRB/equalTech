@@ -11,6 +11,13 @@ body {
     display: grid;
    
 }
-#navbar {
-    background-color: rgb(87, 59, 114);
+.navbar {
+  color: rgb(141, 87, 191);
+}
+.carousel, .carousel-inner > .item > img {
+    height: 600px;
+  }
+
+#premios div{
+    border: 2vw solid blueviolet;
 }
