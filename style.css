@@ -65,6 +65,20 @@
     width: 50%;
     height: 80%;
 }
-h4, p{
+.card-title, .card-text{
     text-align: center;
+}
+/* bordes Miriam y Magda */
+#borde1{
+    width: 80%;
+    background-color:rgb(109,0,109)!important;
+}
+#borde2{
+    background-color:rgb(109,0,109)!important;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
 }
