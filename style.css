@@ -71,10 +71,10 @@
 /* bordes Miriam y Magda */
 #borde1{
     width: 80%;
-    background-color:rgb(109,0,109)!important;
+    background-color:rgb(68,0,58)!important;
 }
 #borde2{
-    background-color:rgb(109,0,109)!important;
+    background-color:rgb(68,0,58)!important;
 }
 ul{
     display: flex;
